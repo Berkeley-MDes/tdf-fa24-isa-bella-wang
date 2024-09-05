@@ -1,10 +1,10 @@
 # Hello, TDF Instructors and TAs!
 Welcome to my GitHub repository! - Isabella Wang :) <br>
 
-<div wisth="100%" align="left">
-<img height="200" width="200" alt="Sanded Sides" src="assets/sanded-pillbox.png">   
-<img height="200" width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
-<img height="200" width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
+<div width="100%" align="left">
+<img height="200" alt="Aha Homer" src="assets/aha.gif">   
+<img height="200" alt="Pill Box" src="assets/mario.gif">   
+<img height="200" alt="Pill Box" src="assets/cattyping.gif">   
 </div>
 
 # Outline
