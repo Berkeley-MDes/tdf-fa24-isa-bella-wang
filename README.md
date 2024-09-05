@@ -23,23 +23,26 @@ We thought about 3d printing it, but decided aginst it because of the texture an
 The flower top spins around and snaps onto the open sections, leaving access to retrieve the contents.
 
 
-<img width="300" alt="Both Pillboxes" src="assets/both-pillboxes.png">   
+<img width="50%" alt="Both Pillboxes" src="assets/both-pillboxes.png">   
 
-<br>
+
 <b>Process:</b>
 
 1. Ai the layers
 2. Cut the layers out of 3/4 plywood
 3. Stack the layers with wood glue and clean up the edges
 4. Sand the edges and surfaces
-<br>
+
 
 <b>Hiccups:</b>
 1. We ran out of magnets and havent been able to test the mechanism.
 2. I tried to sand off the burnt edges of the laser cut, but was dissapointed with the result. It looks patchy and oddly naked.
 
-<img width="200" alt="Sanded Sides" src="assets/sanded-pillbox.png">   
-<br>
+<div align="left">
+<img height="200" width="200" alt="Sanded Sides" src="assets/sanded-pillbox.png">   
+<img height="200" width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
+</div>
+
 <b>Next steps:</b>
 
 1. Purchase magnets and place them
@@ -47,8 +50,6 @@ The flower top spins around and snaps onto the open sections, leaving access to 
 3. Assemble the pill box
 4. Put vitamins inside
 
-
-<img width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
 
 <br>
 <br>
