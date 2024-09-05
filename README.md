@@ -34,7 +34,9 @@ The flower top spins around and snaps onto the open sections, leaving access to 
 
 We thought about 3d printing it, but decided aginst it because of the texture and cheap feel. The plywood gives a heavier sensation and a nicer finish. 
 The flower top spins around and snaps onto the open sections, leaving access to retrieve the contents.
-<img width="500" alt="Both Pillboxes" src="assets/sanded-pillbox.png">   
+
+
+<img width="300" alt="Both Pillboxes" src="assets/both-pillboxes.png">   
 
 <br>
 <b>Process:</b>
@@ -59,7 +61,7 @@ The flower top spins around and snaps onto the open sections, leaving access to 
 4. Put vitamins inside
 
 
-<img width="400" alt="Pill Box" src="assets/unsanded-pillbox.png">   
+<img width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
 
 
 ---
