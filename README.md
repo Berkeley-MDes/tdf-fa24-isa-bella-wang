@@ -2,7 +2,7 @@
 Welcome to my GitHub repository! - Isabella Wang :) <br>
 
 <div width="100%" align="left">
-<img height="200" alt="Aha Homer" src="assets/aha.gif">   
+<img height="200" alt="Aha Homer" src="assets/yay.gif">   
 <img height="200" alt="Pill Box" src="assets/mario.gif">   
 <img height="200" alt="Pill Box" src="assets/cattyping.gif">   
 </div>
