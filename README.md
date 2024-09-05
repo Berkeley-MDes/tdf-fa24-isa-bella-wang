@@ -20,6 +20,8 @@ The specific file that I’m typing into right now is the **README.md** for this
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 <br>
 <br>
+<br>
+
 
 
 # Week 1: Report 1 #
@@ -32,26 +34,32 @@ The flower top spins around and snaps onto the open sections, leaving access to 
 
 We thought about 3d printing it, but decided aginst it because of the texture and cheap feel. The plywood gives a heavier sensation and a nicer finish. 
 The flower top spins around and snaps onto the open sections, leaving access to retrieve the contents.
+<img width="500" alt="Both Pillboxes" src="assets/sanded-pillbox.png">   
 
-We thought about 3d printing it, but decided aginst it because of the texture and cheap feel. The plywood gives a heavier sensation and a nicer finish. 
-
-Process:
+<br>
+<b>Process:</b>
 
 1. Ai the layers
 2. Cut the layers out of 3/4 plywood
 3. Stack the layers with wood glue and clean up the edges
 4. Sand the edges and surfaces
-   
-Hiccups:
+<br>
+
+<b>Hiccups:</b>
 1. We ran out of magnets and havent been able to test the mechanism.
 2. I tried to sand off the burnt edges of the laser cut, but was dissapointed with the result. It looks patchy and oddly naked.
 
-Next steps: 
-1. find magnets
-2. paint the sides
-3. assemble the pill box
+<img width="200" alt="Sanded Sides" src="assets/sanded-pillbox.png">   
+<br>
+<b>Next steps:</b>
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">   
+1. Purchase magnets and place them
+2. Paint sides
+3. Assemble the pill box
+4. Put vitamins inside
+
+
+<img width="400" alt="Pill Box" src="assets/unsanded-pillbox.png">   
 
 
 ---
