@@ -2,9 +2,9 @@
 Welcome to my GitHub repository! - Isabella Wang :) <br>
 
 <div width="100%" align="left">
-<img height="200" alt="Aha Homer" src="assets/yay.gif">   
-<img height="200" alt="Pill Box" src="assets/mario.gif">   
-<img height="200" alt="Pill Box" src="assets/cattyping.gif">   
+<img width="33%" height="220" src="assets/yay.gif">   
+<img width="33%" height="220" alt="Pill Box" src="assets/mario.gif">   
+<img width="33%" height="220" alt="Pill Box" src="assets/cattyping.gif">   
 </div>
 
 # Outline
