@@ -17,8 +17,8 @@ week 2, etc...
 <br>
 <br>
 
-# Week 1: Report 1 #
-## Week of 09/05/2024
+# 🗓️ Week 1 - Report 1 #
+## Week of 09/02/2024
 
 This week i laser cut 2 pill boxes out of plywood.
 
