@@ -20,6 +20,8 @@ week 2, etc...
 # 🗓️ Week 1 - Report 1 #
 ## Week of 09/02/2024
 
+### Introduction
+
 This week i laser cut 2 pill boxes out of plywood.
 
 The idea was for me and my roomate to have a matching set. The flower shape gives a friendly and girly appearance.
@@ -31,7 +33,7 @@ We thought about 3d printing it, but decided aginst it because of the texture an
 <img width="50%" alt="Both Pillboxes" src="assets/both-pillboxes.png">   
 
 
-<b>Process:</b>
+### Process
 
 1. Ai the layers
 2. Cut the layers out of 3/4 plywood
@@ -39,7 +41,7 @@ We thought about 3d printing it, but decided aginst it because of the texture an
 4. Sand the edges and surfaces
 
 
-<b>Hiccups:</b>
+### Hiccups
 1. We ran out of magnets and havent been able to test the mechanism.
 2. I tried to sand off the burnt edges of the laser cut, but was dissapointed with the result. It looks patchy and oddly naked.
 
@@ -48,7 +50,7 @@ We thought about 3d printing it, but decided aginst it because of the texture an
 <img height="200" width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
 </div>
 
-<b>Next steps:</b>
+### Next steps
 
 1. Purchase magnets and place them
 2. Paint sides
