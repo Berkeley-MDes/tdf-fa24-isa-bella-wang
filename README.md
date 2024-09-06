@@ -26,7 +26,6 @@ The idea was for me and my roomate to have a matching set. The flower shape give
 The flower top spins around and snaps onto the open sections, leaving access to retrieve the contents.
 
 We thought about 3d printing it, but decided aginst it because of the texture and cheap feel. The plywood gives a heavier sensation and a nicer finish. 
-The flower top spins around and snaps onto the open sections, leaving access to retrieve the contents.
 
 
 <img width="50%" alt="Both Pillboxes" src="assets/both-pillboxes.png">   
