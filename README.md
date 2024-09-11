@@ -93,37 +93,37 @@ While the phone would be a headache to remove, the size, thickness and alignemne
 - The phone distance from the table was shortened
 
 <div align="left">
-<img height="200" alt="Diagram 1 - Phone Stand" src="assets/exp1.png">   
-<img height="200" alt="Diagram 2 - Phone" src="assets/exp2.png">   
-<img height="200" alt="Diagram 2 - Phone" src="assets/exp3.png">   
+<img height="200" alt="Test 1 - Perspective View" src="assets/exp1.png">   
+<img height="200" alt="Test 1 - Top View" src="assets/exp2.png">   
+<img height="200" alt="Test 1 - Right ViewPerspective" src="assets/exp3.png">   
 </div>
 
 <br>
 
 **Second test:**
-- Wanted a portrait mode phone
-- This lead to thicker walls for balance. The ball on the backside grew until about half the phone height.
-- The limits on threshhold caused the substracted cylinder to be shifted upwards.
-- The phone distance from the table was shortened
+- Wanted to do the lowest lanscape mode i could
+- I changed the Z on both of the speheres and the cylinder
+- It was a balance between getting lower but not triggering the threshold warnings
+- the phone was the lowest it could go without risking the area below being too thin to crack
 
 <div align="left">
-<img height="200" alt="Diagram 1 - Phone Stand" src="assets/exp1.png">   
-<img height="200" alt="Diagram 2 - Phone" src="assets/exp2.png">   
-<img height="200" alt="Diagram 2 - Phone" src="assets/exp3.png">   
+<img height="200" alt="Test 2 - Right View" src="assets/exp21.png">   
+<img height="200" alt="Test 2 - Perspective View" src="assets/exp22.png">   
+<img height="200" alt="Test 2 - Top View" src="assets/exp23.png">   
 </div>
 
 <br>
 
 **Third test:**
-- Wanted a portrait mode phone
-- This lead to thicker walls for balance. The ball on the backside grew until about half the phone height.
-- The limits on threshhold caused the substracted cylinder to be shifted upwards.
-- The phone distance from the table was shortened
+- Wanted a round back section of the stand
+- I shifted both spheres as low as they would go
+- This is the design im most content with.
+- Thye round look gives it an adorable and approachable style im drawn to
 
 <div align="left">
-<img height="200" alt="Diagram 1 - Phone Stand" src="assets/exp1.png">   
-<img height="200" alt="Diagram 2 - Phone" src="assets/exp2.png">   
-<img height="200" alt="Diagram 2 - Phone" src="assets/exp3.png">   
+<img height="200" alt="Test 3 - Perspective View" src="assets/exp31.png">   
+<img height="200" alt="Test 3 - Right View" src="assets/exp32.png">   
+<img height="200" alt="Test 3 - Top View" src="assets/exp33.png">   
 </div>
 
 <br>
