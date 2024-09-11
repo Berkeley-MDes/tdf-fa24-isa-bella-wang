@@ -68,38 +68,32 @@ We thought about 3d printing it, but decided aginst it because of the texture an
 ## Monday - Grasshopper Experimentation
 
 ### Diagrams
-<img width="100%" alt="Diagram 1 - Phone Stand" src="assets/diagram1.png">   
-<img width="100%" alt="Diagram 2 - Phone" src="assets/diagram2.png">   
-<img width="100%" alt="Diagram 3 - Phone Stand minus Phone" src="assets/diagram3.png">   
+
+<div align="left">
+<img height="200" alt="Diagram 1 - Phone Stand" src="assets/diagram1.png">   
+<img height="200" alt="Diagram 2 - Phone" src="assets/diagram2.png">   
+</div>
+<img height="400" alt="Diagram 3 - Phone Stand minus Phone" src="assets/diagram3.png">   
+
+The diagrams were made by readign each of the nodes and identifying how they feed into each other. It was especially helpfull to understand that almost all parameters are customizable.
+The designer has to create a system in which those nodes interact. Grasshopper allows to only define the overall arcitecture has to be defined. All minutia can be altered at any point. 
+
+E.G.
+In the current design, the smaller spehere remains substracted from the bigger sphere. But the designer is still able to change any size and alignment.
+While the phone would be a headache to remove, the size, thickness and alignemnemt to the table can be easily altered.
+
+<br>
 
 ### Baked forms
+
+
+<br>
 
 ## Computational Design - Research
 
 ### Inspiration Board
 ### Possible Diagram
 ### Next steps
-
-<img width="50%" alt="Both Pillboxes" src="assets/both-pillboxes.png">   
-
-
-### Week Report - 
-
-1. Ai the layers
-2. Cut the layers out of 3/4 plywood
-3. Stack the layers with wood glue and clean up the edges
-4. Sand the edges and surfaces
-
-
-### Hiccups
-1. We ran out of magnets and havent been able to test the mechanism.
-2. I tried to sand off the burnt edges of the laser cut, but was dissapointed with the result. It looks patchy and oddly naked.
-
-<div align="left">
-<img height="200" width="200" alt="Sanded Sides" src="assets/sanded-pillbox.png">   
-<img height="200" width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
-</div>
-
 
 <br>
 <br>
