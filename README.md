@@ -61,6 +61,48 @@ We thought about 3d printing it, but decided aginst it because of the texture an
 <br>
 <br>
 
+# 🗓️ Week 2 - Report 2 #
+## Week of 09/09/2024
+<br>
+
+## Monday - Grasshopper Experimentation
+
+### Diagrams
+<img width="100%" alt="Diagram 1 - Phone Stand" src="assets/diagram1.png">   
+<img width="100%" alt="Diagram 2 - Phone" src="assets/diagram2.png">   
+<img width="100%" alt="Diagram 3 - Phone Stand minus Phone" src="assets/diagram3.png">   
+
+### Baked forms
+
+## Computational Design - Research
+
+### Inspiration Board
+### Possible Diagram
+### Next steps
+
+<img width="50%" alt="Both Pillboxes" src="assets/both-pillboxes.png">   
+
+
+### Week Report - 
+
+1. Ai the layers
+2. Cut the layers out of 3/4 plywood
+3. Stack the layers with wood glue and clean up the edges
+4. Sand the edges and surfaces
+
+
+### Hiccups
+1. We ran out of magnets and havent been able to test the mechanism.
+2. I tried to sand off the burnt edges of the laser cut, but was dissapointed with the result. It looks patchy and oddly naked.
+
+<div align="left">
+<img height="200" width="200" alt="Sanded Sides" src="assets/sanded-pillbox.png">   
+<img height="200" width="200" alt="Pill Box" src="assets/unsanded-pillbox.png">   
+</div>
+
+
+<br>
+<br>
 ---
 ## Quick Links ##
 
