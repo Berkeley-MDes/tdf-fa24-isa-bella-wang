@@ -86,6 +86,19 @@ While the phone would be a headache to remove, the size, thickness and alignemne
 
 ### Baked forms
 
+**First test:**
+- Wanted a portrait mode phone
+- This lead to thicker walls for balance. The ball on the backside grew until about half the phone height.
+- The limits on threshhold caused the substracted cylinder to be shifted upwards.
+- The phone distance from the table was shortened
+
+<div align="left">
+<img height="200" alt="Diagram 1 - Phone Stand" src="assets/exp1.png">   
+<img height="200" alt="Diagram 2 - Phone" src="assets/exp2.png">   
+<img height="200" alt="Diagram 2 - Phone" src="assets/exp3.png">   
+</div>
+
+
 
 <br>
 
