@@ -132,8 +132,20 @@ While the phone would be a headache to remove, the size, thickness and alignemne
 ## Computational Design - Research
 
 ### Inspiration Board
+I took inspiration from Retro product design, specifically lamp designs. Im attracted to the round and homely feel. 
+The transparecy and sleekness to the acrylic give it a visually appealing look. 
+After looking through alternatives, I decided for a magnetic stand. It supports the most devices and it's easiest to interact with
+
+<img width="500" alt="Moodboard" src="assets/moodboard.png">   
+
 ### Possible Diagram
+- The design will have a round base
+- Going up to a column.
+- On the top there will be a ball bearing holding up the magnet. The ball bearing allows for ease of changing the phones angle and orientation. 
+
 ### Next steps
+1. Making the sketch of the stand in paper
+2. Making model in Grashopper
 
 <br>
 <br>
