@@ -128,6 +128,20 @@ While the phone would be a headache to remove, the size, thickness and alignemne
 
 <br>
 
+## Class Exploratioon
+
+Following along to the class tutorial. I was a bit lost doing Grasshopper from the start. It was easy to decode what the pre-made file was doing. It was mostly reading through the nodes and seeing how they connected. Making it, required knowing where to find the relevant buttons and requests, which i kept losing in the screen. I ended up getting help from my table mates, who guided me through it
+
+The shape was simple, just a squaew with a cylinder substracted from it. But it made me realize how usefull the modularity of Grasshopper is. In any other program like Fusion or Blender, the shapes are pretty set in stone; having parameters that are easy to edit sppeds the testing process along. 
+
+<div align="left">
+<img height="200" alt="Class Test 1 - Top View" src="assets/class1.png">   
+<img height="200" alt="Class Test 2 - Right View" src="assets/class2.png">   
+<img height="200" alt="Class Test 3 - Front View" src="assets/class3.png">   
+</div>
+
+
+<br>
 
 ## Computational Design - Research
 
