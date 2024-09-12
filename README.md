@@ -134,7 +134,7 @@ Following along to the class tutorial. I was a bit lost doing Grasshopper from t
 
 The shape was simple, just a squaew with a cylinder substracted from it. But it made me realize how usefull the modularity of Grasshopper is. In any other program like Fusion or Blender, the shapes are pretty set in stone; having parameters that are easy to edit sppeds the testing process along. 
 
-<img height="500" alt="Class Diagram" src="assets/classdiagram.png">   
+<img width="500" alt="Class Diagram" src="assets/classdiagram.png">   
 
 <div align="left">
 <img height="200" alt="Class Test - Top View" src="assets/class1.png">   
