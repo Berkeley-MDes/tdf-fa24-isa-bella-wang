@@ -13,6 +13,7 @@ Welcome to my GitHub repository! - Isabella Wang :) <br>
 ⭐️ [Week 2](README.md#%EF%B8%8F-week-2---report-2)
 
 
+
 <br>
 <br>
 <br>
@@ -128,7 +129,7 @@ While the phone would be a headache to remove, the size, thickness and alignemne
 
 <br>
 
-## Class Exploratioon
+## Thursday - Class Exploratioon
 
 Following along to the class tutorial. I was a bit lost doing Grasshopper from the start. It was easy to decode what the pre-made file was doing. It was mostly reading through the nodes and seeing how they connected. Making it, required knowing where to find the relevant buttons and requests, which i kept losing in the screen. I ended up getting help from my table mates, who guided me through it
 
@@ -145,7 +146,7 @@ The shape was simple, just a squaew with a cylinder substracted from it. But it 
 
 <br>
 
-## Computational Design - Research
+## Week - Computational Design - Research
 
 ### Inspiration Board
 I took inspiration from Retro product design, specifically lamp designs. Im attracted to the round and homely feel. 
