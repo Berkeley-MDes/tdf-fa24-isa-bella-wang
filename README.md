@@ -8,9 +8,9 @@ Welcome to my GitHub repository! - Isabella Wang :) <br>
 </div>
 
 # Outline
-⭐️ [Week 1](README.md#week-1-example-report-1)
+⭐️ [Week 1](README.md#Week-of-09/02/2024)
 
-⭐️ Week 2, etc...
+⭐️ [Week 2](README.md#Week-of-09/09/2024)
 
 
 <br>
