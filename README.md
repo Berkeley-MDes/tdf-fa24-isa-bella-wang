@@ -21,6 +21,7 @@ Welcome to my GitHub repository! - Isabella Wang :) <br>
 # 🗓️ Week 1 - Report 1 #
 ## Week of 09/02/2024
 
+
 ### Introduction
 
 This week i laser cut 2 pill boxes out of plywood.
@@ -64,6 +65,14 @@ We thought about 3d printing it, but decided aginst it because of the texture an
 
 # 🗓️ Week 2 - Report 2 #
 ## Week of 09/09/2024
+
+
+📌 [Monday - Grasshopper Experimentation](README.md#monday---grasshopper-experimentation)
+
+📌 [Thursday - Class Exploration](README.md#thursday---class-exploratioon) 
+
+📌 [Weekly Update - Computational Design Research](README.md#weekly-update---computational-design-research) 
+
 <br>
 
 ## Monday - Grasshopper Experimentation
@@ -146,7 +155,7 @@ The shape was simple, just a squaew with a cylinder substracted from it. But it 
 
 <br>
 
-## Week - Computational Design - Research
+## Weekly Update - Computational Design Research
 
 ### Inspiration Board
 I took inspiration from Retro product design, specifically lamp designs. Im attracted to the round and homely feel. 
