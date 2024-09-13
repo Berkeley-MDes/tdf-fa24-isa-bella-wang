@@ -10,7 +10,7 @@ Welcome to my GitHub repository! - Isabella Wang :) <br>
 # Outline
 ⭐️ [Week 1](README.md#%EF%B8%8F-week-1---report-1)
 
-⭐️ [Week 2](README.md#Week-of-09/09/2024)
+⭐️ [Week 2](README.md#%EF%B8%8F-week-2---report-2)
 
 
 <br>
