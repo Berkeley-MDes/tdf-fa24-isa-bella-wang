@@ -175,6 +175,16 @@ After looking through alternatives, I decided for a magnetic stand. It supports 
 
 <br>
 <br>
+
+# 🗓️ Week 2 - Report 2 #
+## Week of 09/09/2024
+
+
+📌 [VIDEO LINK](https://youtu.be/56ulLLgMZa8)
+
+
+<br>
+<br>
 ---
 ## Quick Links ##
 
