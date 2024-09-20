@@ -182,6 +182,42 @@ After looking through alternatives, I decided for a magnetic stand. It supports 
 
 📌 [VIDEO LINK](https://youtu.be/56ulLLgMZa8)
 
+<br>
+
+## Computational Design - Process and Final
+
+### Rhino + Grasshoper
+1. I began by determining the shape of the base. I tried to make it by substracting a donut shape from a cylinder in order to have a sloped angle from the body to the lower section. But i was dissatiesfied with the result. I ended up making a low cylinder with a cone on top
+2. For the body i made a circle adn extruded it into a cylinder
+3. For the top section fo the body I made 2 points to determine the start and end of an arc
+4. I made a circle and extruded it starting from the top section of the body cylinder. Then used the "bend" node to bend the cylinder along the arc
+5. I capped all the forms and did solid union to join them together
+
+
+### Physical Process
+1. I laser cut all the pieces from acrylic in the recycling bin
+2. I peeled all the acrylic bits
+3. I tried to attach the pieces with a heating gun, and it did work very well because it left no marks. But the pieces unstuck from themselves
+4. So I switched to acrylic weld, attaching all the pieces together
+5. After I attahced them, the transparent material displayed bubbles and imperfections from the weld
+6. I tried to polish it, re-attaching pieces and softly dremeling. I ended up deciding for sandining the surface
+7. I sanded the full surface to make it foggy. The finish was smoother to the touch and fit perfect with its purpose
+8. I attached the ball bearing and magnet i purchased from amazon (it cost 8 bucks for 2 mounts)
+9. It was working when the phone was only in portrait mode. I wanted to be able to rotate it in all angles so I had to attach a final bigger ring to offset the weight. 
+
+### Reflections
+1. I enjoyed the matieral way more than 3D printing it. I thought 3D printing it would make it too light and flimsy, the acrylic gave it the weight it needs to feel like a product adn not a draft
+2. The foggy final texture was my favorite happy accident. It's so satifying to interact with. Even people who have laser cut acrylic before are a bit perplexed by the finish
+3. Im glad i spent my time in the design of the body instead of dealing with the minutia of making a ball bearing. Purchasing that part allowed me to thing of the whole as a system and not wase time in details
+4. Im very pleased with the final design
+5. Im very surprised i was able to navigate Grasshopper and Rhino with ease towards the end. I was very baised towards working with Blender or Fusion as I have experience in them, but as I worked more with Grasshopper I understood why its the best tool to use for designs you are not entirely sure about. It's best for drafting and deciding than any other program
+
+### What I would do different
+1. I would sand the independent pieces before attachign them. Since I didnt know that was the texture I wanted, I sanded it after attaching.
+2. I would make a jig to make sure all the pieces are attached in the correct place. In this version I used rulers and additional pieces but it still had bumps and misaligned pieces. 
+
+### Video
+📌 [VIDEO LINK](https://youtu.be/56ulLLgMZa8)
 
 <br>
 <br>
