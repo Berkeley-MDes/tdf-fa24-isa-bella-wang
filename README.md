@@ -221,6 +221,192 @@ After looking through alternatives, I decided for a magnetic stand. It supports 
 
 <br>
 <br>
+
+
+# 🗓️ Week 3 - Report 3 #
+## Week of 09/16/2024
+Over this week i made the video and delivered the report displayed on last weeks report
+
+### Video
+The video took a lot of time spent in premiere. I used a stop motion inspiration from this Ted Talk video
+<img width="500" alt="Ted Talk Video" src="assets/tedtalk.png">   
+📌 [Ted Talk]([https://youtu.be/56ulLLgMZa8](https://www.youtube.com/watch?v=NKgXBjkKI_E)
+
+I used the following script:
+
+Once upon a time, the lonely Phone could not stand
+
+His smooth corners and plastic case made him slippery and weak
+
+He could not be used to record
+
+He has fallen so many times from piles of things
+
+He has slipped down slowly, seeing his life pass by while on Facetime
+
+He has been left in the table, pissing off whoever was on the other end of the call
+
+He’s tired, he’s scared about his screen cracking, he knows he cannot continue like this
+
+Hes been on the apps and looked around for a base. 
+
+But they are too clunky, to solid or to stiff
+
+BUT WHATS THAT I SEE, APPEARING SOLID IN THE GROUND??
+
+SUPER PHONE STAND
+
+wooo
+
+They say phone stand was born in a planet called “Grasshopper” and they used to ride Rhinos for fun
+
+They are so strong
+
+They have a ball bearing head
+
+A body of solid acrylic and a strong base that weighs them down
+
+So cool
+
+Legend says Phone Stand was born from nodes.
+
+Joining a big cylinder and a cone for the base. Another cylinder and a deformed cylinder for the body.
+
+Entirely parametric, they were chosen from many iterations.
+
+Phone stand has the sleekest most efficient design out there
+
+They were built by welding many pieces of acrylic together. Sanded to be smooth and foggy
+
+(disclaimer this action was performed by professionals, do not attempt at home, only at Jacobs)
+
+Phone stand can rotate their head at so many angles
+
+They can turn up, down and at any direction
+
+They are so solid in the ground they cannot tip over!
+
+And the best part yet
+
+The magnetic head!!!! so they can save the life of so many devices of many sizes
+
+They adapt! They are the very image of resilience
+
+Only thing is that they are blind.
+
+And look at that! PhoneStand has vaguely spotted our lonely Phone
+
+Phone has been swooped off his feet
+
+It is love at first sight
+
+And they are effortlessly attached
+
+Aweeeeeee
+
+Look at them so happy.
+
+They can now explore the world.
+
+Phone is the eyes
+
+Phone Stand is the support
+
+They complement each other perfectly
+
+They can film videos, do facetime calls, and protect each other from falls and cracks
+
+Never seen anything like it before
+
+ Its a brand new world for our super couple
+
+So please, purchase this incredible phone stand from Isabella Wang
+
+You wouldn’t want your phone to miss out on the love of their life 
+
+Everyone needs a little support
+
+Thank you DesInv202. Im an axolotl give me max score plz
+
+See u soon
+
+
+Isabella
+
+### Sketches, Drawings, and Diagrams
+
+While there wasnt Sketches, Drawings, and Diagrams, there was a lot of other files I used for the video
+
+Such as:
+1. Videos I recorded
+2. Photos I took
+3. PNGs I edited
+4. Stop motion frames of PNGs
+5. Background and texture files
+6. The main sound audio
+7. Sound effects
+8. Music
+   
+
+<img width="500" alt="Files Video 1" src="assets/filesvideo1.png">   
+<img width="500" alt="Files Video 2" src="assets/filesvideo2.png">   
+
+
+### Reflections
+I am very happy with the result of the video. It emphasizes storytelling, humanizing the objects and giving them more appeal. I had a lot of fun making it because it became a game of how to make it siller and prettier. Using the TedTalk as inspiration kept me reaching for more and more cretaive addditions. 
+
+When presented, all my classmates really enjoyed it. They clapped and asked how i made it
+
+### Speculatinons
+
+While I made a  very creative video, I missed a quite a bit of the technical background relating to Computational Design. I wanted the focus to be in making a dynamic video, showing the parameters, and not info dumping explanations. I expect I will have to mak eup for it when making the report.
+
+<br>
+<br>
+
+# 🗓️ Week 4 - Report 4 #
+## Week of 09/23/2024
+
+### Super Phone Stand - Report
+
+Overview
+- Level 3, Axolotl
+- Experimentation: 3D printing, Attempted to bend acrylic, Welded acrylic, Sanded acrylic, First time using Grasshopper and Rhino
+- ​​AEIOU Framework
+- Diagrammatic Analysis of your System
+- Prototype Demonstration
+- Project Challenge Results
+- Speculations
+- Peer Feedback Response
+-  Conclusion
+
+### Diagrams
+
+<img width="500" alt="Diagram 1" src="assets/diagramphone-1.png">   
+<img width="500" alt="Diagram 2" src="assets/diagramphone-2.png">   
+
+### Reflections
+
+The report spanned about 10 pages, it was very in-depth exploration of Computational Design as observed in the phone stand
+"I am quite pleased with the results. I learned a lot about Grasshoppers and Rhino. Learned how to navigate parameters, make a system for a product rather than jumping straight into a single version. Learned how to use heat mending, acrylic weld and assembly. Learned how to sand and smooth the surface of acrylic for a foggier finish."
+
+### Speculations
+
+"Predictions of Anthropogenic Studies may align with the actual human experience, but observation is king. Assumptions and educated guesses permanently fall short next to the careful study by simple observation and note taking. The combination of experimentation and observation skills combine into the deepest understanding of human behavior.
+
+This affects design, engineering and everyday life. AI may be able to analyze and summarize with accuracy, but it can't identify minutiae of things yet, because it needs to be prompted to know what to look for. And if it's something brand new, it will simply walk blind."
+
+<br>
+<br>
+
+# 🗓️ Week 4 - Report 4 #
+## Week of 09/30/2024
+
+### Reflections
+
+<br>
+<br>
+
 ---
 ## Quick Links ##
 
