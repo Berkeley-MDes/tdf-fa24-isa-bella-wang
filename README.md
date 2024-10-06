@@ -12,11 +12,13 @@ Welcome to my GitHub repository! - Isabella Wang :) <br>
 
 ⭐️ [Week 2](README.md#%EF%B8%8F-week-2---report-2)
 
-⭐️ [Week 3](README.md#%EF%B8%8F-week-2---report-2)
+⭐️ [Week 3](README.md#%EF%B8%8F-week-3---report-3)
 
-⭐️ [Week 4](README.md#%EF%B8%8F-week-2---report-2)
+⭐️ [Week 4](README.md#%EF%B8%8F-week-4---report-4)
 
-⭐️ [Week 5](README.md#%EF%B8%8F-week-2---report-2)
+⭐️ [Week 5](README.md#%EF%B8%8F-week-5---report-5)
+
+⭐️ [Week 6](README.md#%EF%B8%8F-week-6---report-6)
 
 
 
