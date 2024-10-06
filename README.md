@@ -12,6 +12,12 @@ Welcome to my GitHub repository! - Isabella Wang :) <br>
 
 ⭐️ [Week 2](README.md#%EF%B8%8F-week-2---report-2)
 
+⭐️ [Week 3](README.md#%EF%B8%8F-week-2---report-2)
+
+⭐️ [Week 4](README.md#%EF%B8%8F-week-2---report-2)
+
+⭐️ [Week 5](README.md#%EF%B8%8F-week-2---report-2)
+
 
 
 <br>
@@ -176,7 +182,7 @@ After looking through alternatives, I decided for a magnetic stand. It supports 
 <br>
 <br>
 
-# 🗓️ Week 2 - Report 2 #
+# 🗓️ Week 3 - Report 3 #
 ## Week of 09/09/2024
 
 
@@ -223,7 +229,7 @@ After looking through alternatives, I decided for a magnetic stand. It supports 
 <br>
 
 
-# 🗓️ Week 3 - Report 3 #
+# 🗓️ Week 4 - Report 4 #
 ## Week of 09/16/2024
 Over this week i made the video and delivered the report displayed on last weeks report
 
@@ -364,7 +370,7 @@ While I made a  very creative video, I missed a quite a bit of the technical bac
 <br>
 <br>
 
-# 🗓️ Week 4 - Report 4 #
+# 🗓️ Week 5 - Report 5 #
 ## Week of 09/23/2024
 
 ### Super Phone Stand - Report
@@ -399,7 +405,7 @@ This affects design, engineering and everyday life. AI may be able to analyze an
 <br>
 <br>
 
-# 🗓️ Week 4 - Report 4 #
+# 🗓️ Week 6 - Report 6 #
 ## Week of 09/30/2024
 
 ### Reflections
