@@ -410,8 +410,73 @@ This affects design, engineering and everyday life. AI may be able to analyze an
 # 🗓️ Week 6 - Report 6 #
 ## Week of 09/30/2024
 
-### Reflections
+This week I was able to get the LED pulse rate microtutorial.
 
+I had been really struggling because my Photon 2 was not connecting. It would return errors everytime I compiled or flashed any code. 
+I had spent days trying to re-set my passwords and re-do the onboarding to no avail. I even spent one hour on sunday with Jeff trroubleshooting it
+The result: havign to replace the Photon board
+
+Once I did get it replaced, i flew through the first tutorial
+I had already repeted the steps so many times i was confident. I compiled and flashed the code. connected the wires, LEDs, transistors and button and flashed again
+It worked on the first try
+
+<div align="left">
+<img height="200" alt="LED setup - LEDs off" src="assets/LEDsetup.png">   
+<img height="200" alt="LED test - LEDs on" src="assets/LEDon.png">   
+</div>
+
+### Reflections
+I wish i had not wasted so much time trying to solve it on my own and had just reached for help when i realized there was somethign wrong. I would have not undone a lot of the work that was correct, like the BerkeleyiOt password. It would have saved me days of struggle and I would have been able to explore more tutorials. 
+
+### Diagrams
+First Photon 2 board -> struggle -> re-wire -> re-code -> check every component 100 times
+Second Photon board -> compile and flash -> wire -> see results
+
+### Speculations
+I speculate a lot more smooth sailing from now. I'll be able to quickly familiarize myself with the system and do other projects. Or at least I hope this is the last mayor hiccup
+
+<br>
+<br>
+
+# 🗓️ Week 7 - Report 7 #
+## Week of 10/7/2024
+
+This week we began forming teams and planning our second project for Build a Digital EcoSystem.
+I teamed up with Jiaqui and Precious to undertake building an interactive game using ML and p5.js
+
+The goal of this project is to explore the use of Particle Photon 2 devices, Particle Cloud Services, and STEMMA QT-based sensors and actuators to develop a system for casting a magic spell. The input will be the motion data of waving the wand. Through machine learning, a collection of motion data will then be categorized and recognized as a spell. The spell will trigger a respective p5 js animation displayed in a screen/projection. If time allows, we would expand on making the output more physical using actuators such as motors, LEDs, etc.
+
+### Diagram
+<img width="500" alt="Magic Architecture Diagram" src="assets/magicarch.png">  
+
+Since my responsability is to create the setup, i have to because very aquainted with the relevant sensors
+In this case:
+1. The Accelerometer and Gyroscope: for the motion recognition
+2. The OLED: possibly for the display, but most likely it will be projected for a bigger scale
+3. The Speakers: to add sound effects or background audio
+
+<div align="left">
+<img height="200" alt="Accelerometer/Gyroscope - front" src="assets/accfront.png">   
+<img height="200" alt="Accelerometer/Gyroscope - back" src="assets/accback.png"> 
+</div>
+
+<div align="left">
+<img height="200" alt="OLED - front" src="assets/oledfront.png">   
+<img height="200" alt="OLED - back" src="assets/oledback.png"> 
+</div>
+
+<div align="left">
+<img height="200" alt="Speaker - front" src="assets/speakerfront.png">   
+<img height="200" alt="Speaker - back" src="assets/aspeakerback.png"> 
+</div>
+
+### Reflections
+I'm responsable for the Photon 2 and the rigging of the sensors. 
+I think we have worke great as a team so far. Communication and coordinating have been without hiccups. 
+I believe the project is a great balance between childhood nostalgia and modernized approach. Its something that could be marketable to harry potter fanatics or Disneyland parks. It doesnt have the deepest societal impact, but it's a project that brings joy, and theres great value in that.
+
+### Speculations
+I speculate that we will have a lot of fun with this project. The subject matter is fun and appealing. It does not seem like a daunting task but more like a joyfull project to undertake. Since my experience with the board is limited to hte experimentd taken in class, i expect to learn a lot in a short amount of time. For example: the proper way to handle sensors and the ideal set-up for HCI. I'm aiming to build something functional but also user friendly.
 
 <br>
 <br>
