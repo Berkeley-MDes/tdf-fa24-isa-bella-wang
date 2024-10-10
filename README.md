@@ -20,6 +20,8 @@ Welcome to my GitHub repository! - Isabella Wang :) <br>
 
 ⭐️ [Week 6](README.md#%EF%B8%8F-week-6---report-6)
 
+⭐️ [Week 7](README.md#%EF%B8%8F-week-7---report-7)
+
 
 
 <br>
@@ -457,7 +459,7 @@ In this case:
 
 <div align="left">
 <img height="200" alt="Accelerometer/Gyroscope - front" src="assets/accfront.png">   
-<img height="200" alt="Accelerometer/Gyroscope - back" src="assets/accback.png"> 
+<img height="200" alt="Accelerometer/Gyroscope - back" src="assets/Accback.png"> 
 </div>
 
 <div align="left">
@@ -467,7 +469,7 @@ In this case:
 
 <div align="left">
 <img height="200" alt="Speaker - front" src="assets/speakerfront.png">   
-<img height="200" alt="Speaker - back" src="assets/aspeakerback.png"> 
+<img height="200" alt="Speaker - back" src="assets/speakerback.png"> 
 </div>
 
 ### Reflections
