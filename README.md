@@ -486,6 +486,15 @@ I speculate that we will have a lot of fun with this project. The subject matter
 # 🗓️ Week 8 - Report 8 #
 ## Week of 10/14/2024
 
+<br>
+<br>
+
+# 🗓️ Week 9 - Report 9 #
+## Week of 10/21/2024
+
+<br>
+<br>
+
 ---
 ## Quick Links ##
 
