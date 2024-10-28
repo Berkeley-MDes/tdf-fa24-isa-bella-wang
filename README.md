@@ -486,11 +486,102 @@ I speculate that we will have a lot of fun with this project. The subject matter
 # 🗓️ Week 8 - Report 8 #
 ## Week of 10/14/2024
 
+Project 2 Developments
+
+Goal: 
+To make a platform that makes an obejct float when triggered by a magic wang
+
+Responsabilities:
+1. Figuring out system for the floating
+2. Begin prototyping
+
+<div align="left">
+**Experiment 1: No magnets**
+In order to create the floating platform, there were many iterations. The first idea was a plywood laser cut base. Two strings would pull the object upward, as a servo motor rotates underneath. After making the laser cut pieces for it and assembling it, this idea seemed too simple and boring
+<img height="200" alt="No Maggnets Laser Cutting" src="assets/nomagnets.png">
+</div>
+
+**Experiment 2: Electromagnets**
+The idea that moved forward was to trigger the floating by using electromagnets. Electromagnets are magnets made of coils of wire with electricity passing through them, and unlike regular magnets they can be turned on and off.
+
+<div align="left">
+<img height="200" alt="EM mechanics" src="assets/EMdiagram.jpg">   
+<img height="200" alt="EM mechanics + switch" src="assets/emswitch.png"> 
+</div>
+
+<img height="200" alt="No Maggnets Laser Cutting" src="assets/EMdiafgram.jpg"> emswitch
+
+The first layout had 4 EMs and 8 columns of 3 neodymium magnets (NM) over a metal base. After cutting, sanding and CADing the layout, I realized that the amount of electromagnets required a great amount of voltage, significantly more than the Photon could provide. 
+
+
+<div align="left">
+<img height="200" alt="Metal Cheet Cutting" src="assets/metalcutting.jpeg">   
+<img height="200" alt="First CAD" src="assets/firstCAD.jpeg"> 
+</div>
+
+### Reflections
+The pivot to electromagnets added more possibilities. It prompted a deep dive into magnets, magnetic fields, understanding power and energy limitations. Im quite happy with the current direction and while it adds a lot of work, it also looks veyr fun to delve into.
+
+### Speculations
+Looking forward, it’s likely that further iterations will explore alternative power configurations or fewer electromagnets to reduce the energy burden while maintaining the floating effect. Perhaps using a combination of permanent magnets and strategically placed electromagnets could achieve the desired effect with less power. Another avenue could be investigating external power supplies or more efficient electromagnets to reduce power consumption. Considering these trade-offs might lead to a design that is both visually engaging and technically feasible.
+
 <br>
 <br>
 
 # 🗓️ Week 9 - Report 9 #
 ## Week of 10/21/2024
+
+<img width="500" alt="Magic Overall Diagram" src="assets/Overall.png">  
+
+The CAD from last week carried over into this week. 
+
+There were many complications while pinning. At first I explored using a relay to regulate the voltage. The relay would act as a doorway in between the outside energy source and the photon, to prevent it from being burned. However, the relay would fire the energy back into the Photon once the doorway closed, effectively burning it. The Photon had been having great issues compiling and flashing code, and would not connect to the network. I've just recieved a new Photon to resume testing new alternatives.
+
+<div align="left">
+<img height="200" alt="Relay" src="assets/relay.png">   
+<img height="200" alt="Relay Wiring" src="assets/relaywiring.png"> 
+</div>
+
+### Reflections
+I'm not quite scared of burning the Photon or the relay as i am of burning my computer, which I was warned is a risk. I've been a bit reckless testing with giant magnets and EM coils near my very sentive tech that I costs a lot and I care a lot about. 
+
+I've also pinched my fingers so many times between magnets, it hurts. 
+
+### Speculations
+There is 4 paths forward:
+1. Experimenting with Voltage Regulation: Swapping the relay for other components
+2. Possibly Moving to a More Robust Microcontroller: I have a access to an Arduino UNO
+3. Reconsidering Power Sources: I could use the wall as a source
+4. Looking Into Code Solutions for Voltage Spikes: Regulate the on/off to not allow it to burst?
+
+<br>
+<br>
+
+# 🗓️ Week 10 - Report 10 #
+## Week of 010/28/2024
+
+<img width="500" alt="Wadn cover img" src="assets/wand.png">  
+
+The project has been submitted
+
+The successful circuit is as follows: The transistor's emitter connects through the photon's D6 pin, and to the negative of the EM coil. The transistor's emitter connects to the positive of the EM coil through a diode; connects to the external battery’s positive; and also connects to an LED to indicate if the EM is on. The transistor's base and the external battery are connected to the Photon’s ground.
+<img width="500" alt="EM base diagram" src="assets/electromagnet.png">  
+
+The final design featured a second platform with a single electromagnet powered by a 4 double A battery pack, above the neodymium magnet, to pull it upward instead of repelling it. When the coil is turned on, the magnet is attracted and starts floating.
+<img width="500" alt="EM coils wiring" src="assets/coil2.png">  
+
+Transistor and Diode
+The transistor and diode worked effectively, yet I still needed help wiring it, because I was not successful after hours of iterations and searches. The LED is a signal that lights up when the EM is on and magnetized. It serves as a visual cue on when to test it.
+
+### Reflections
+Honestly, I’m quite stubborn once set on a goal. Once I had determined I wanted to do an EM floating platform, I just worked tirelessly for it. I enjoy the process of testing and discovering. The number of experiments were simply steps I had to take. I did work quite hard on the prototype and I'm very glad it works. 
+
+I did learn that I should ask for help sooner rather than later. Something that I have taken days trying to solve, the TAs or teachers can solve in minutes. I should not have struggled without reaching out for so long. I know it's something that put stress onto my teammates because they didn't see clear progress, and i will make sure to do better in the future
+
+### Speculations
+Human experiences, what might be different about cultural expectations of the Anthropogenic Environment?
+The Magic Spell Project reimagines storytelling and play by tapping into human experiences through ML and physical prototypes. By recognizing gestures and responding interactively, the technology deepens users' sense of immersion and control, making them feel as though they’re truly casting spells. This approach could open doors to more personalized interactions, enabling users to shape their own stories within a responsive, interactive world.
+
 
 <br>
 <br>
