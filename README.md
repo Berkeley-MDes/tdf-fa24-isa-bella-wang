@@ -599,6 +599,24 @@ The Magic Spell Project reimagines storytelling and play by tapping into human e
 <br>
 <br>
 
+# 🗓️ Week 11 - Report 11 #
+## Week of 11/04/2024
+
+<br>
+<br>
+
+# 🗓️ Week 12 - Report 12 #
+## Week of 11/11/2024
+
+<br>
+<br>
+
+# 🗓️ Week 13 - Report 13 #
+## Week of 11/18/2024
+
+<br>
+<br>
+
 ---
 ## Quick Links ##
 
