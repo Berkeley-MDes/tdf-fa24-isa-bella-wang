@@ -596,17 +596,112 @@ The Magic Spell Project reimagines storytelling and play by tapping into human e
 # 🗓️ Week 10 - Report 10 #
 ## Week of 010/28/2024
 
+During class we did an exploration of ZeroWidth, an AI tool for making AI Chatbots.
+First, I explored temperature adjustments in a baseline experiment, observing how these settings influenced response creativity. 
+
+Experiment 01 - GPT 
+Workbench: https://zerowidth.ai/workbench/ADj61KFYM8LZH56dtMFT/projects/DenMPhfEovyOH4y9MXyK/agents/V74hTJdtCUPYeLWoFxPI
+Demo: https://zerowidth.ai/c/demo/V74hTJdtCUPYeLWoFxPI/draft
+
+<img width="500" alt="ZW experimentation" src="assets/exp1.png">  
+
+### Reflections
+Since this exploration was very simple, there isnt much to reflect on. Its mostly just about following the instructions and explorating what each of the nodes and parameters do. My favorite parameter so far is the option of seelcting from a list of LLMs and how each gives a different content of response.
+
+### Speculations
+I think the application is very useful for creating your own chatbot. I think it will facilitate the use of LLMs in personal and smaller projects and it provides an easy introduction into the world of LLMs
+
 <br>
 <br>
 
 # 🗓️ Week 11 - Report 11 #
 ## Week of 11/04/2024
 
+### Experiment 02
+
+I introduced prompts to the GPT LLM. It instructed the LLM to represent my academic and professional work.
+The prompt “Allows for easy configuration of a prompt message and role to provide to an LLM” (zerowidth). It is a text input from the creator that is used as instructions for the LLM to format the responses. 
+
+My prompt was: “You are an agent representing the professional and educational experience of Isabella Wang, also known as Isa. Include references to work as a product designer, creative technologist, graphic designer, animator and artist as appropriate to the conversation.”
+
+<img width="500" alt="ZW experimentation" src="assets/exp2.png"> 
+
+
+### Experiment 03
+
+This experiment required a change in prompt. Since the LLM had to retrieve information from a Knowledge Base, it had to be prompted to do so
+
+The new prompt is: 
+
+“You are an agent representing the professional experience of Isabella Wang, also known as Isa. Include references to his work as a product designer, creative technologist, graphic designer, animator and artist as appropriate to the conversation. 
+
+Provide useful references to his work as related to the dialog shared in prompts. Here is some information that can help you answer the user's query: ${KNOWLEDGE)”
+
+The content was uploaded into the Knowledge Base, sorted into chunks. By increasing the number of chunks, the LLM is able to sort through more specific information, and provide more accurate answers, but is more likely to get confused. The similarity threshold compared the message input to the Knowledge Base terms, looking for similar words. Increasing the threshold would limit the results by those who are most similar. 
+
+I found the content worked better when it was sorted into sensical chunks. When I had first uploaded my resume, I had generated a random number of chunks from the given information, and ZeroWidth sorted it to have an average amount in each chunk. But it was better to input each section of the resume manually. It increased the number of chunks, but gave the most accurate results. 
+
+<img width="500" alt="ZW experimentation" src="assets/exp3.png"> 
+
+### Experiment 04
+
+This experiment had two different prompts: one for formatting the input question by Location and Year. And another prompt for formatting the response using the Knowledge Base. Both prompts had to be connected to their respective LLM.
+
+The first prompt is: “Format the following as a question about Isabella Wang. In ${LOCATION}. During ${YEAR}.”
+
+The second prompt remains mostly the same as experiment 03, but it adds: “Assume the query is related to this location in her life: ${LOCATION}. Assume the query is related to this year in her life: ${YEAR}”
+
+The Knowledge base this experiment used, was the same as the last one. I set the sliders for Chunks and Similarity at the lowest so I could receive the best response and not cause delays or confusions for the LLM. 
+
+<img width="500" alt="ZW experimentation" src="assets/exp4.png"> 
+
+
+### Reflections
+These experiments showed me how important prompt design and knowledge base organization are for improving an LLM’s performance. In Experiment 02, I saw how clear instructions helped the LLM represent my diverse professional identity effectively. Experiment 03 taught me that manually curating knowledge base chunks, rather than relying on automated sorting, produced much more accurate and relevant responses. In Experiment 04, I realized that adding context like location and year to both the query and the response made the LLM’s answers even more precise and reduced confusion.
+
+### Speculations
+Future steps could integrate my skills to design an interactive dashboard for customizing prompts, adjusting knowledge settings, and visualizing LLM responses. Using animation, I could create motion graphics to illustrate how the LLM processes context. A prototype in tools like Figma would combine aesthetics and functionality, making the tool user-friendly and visually engaging.
+
 <br>
 <br>
 
 # 🗓️ Week 12 - Report 12 #
 ## Week of 11/11/2024
+
+### Project 03 - Experiment 05 - Sleep Deprivation
+
+Video: https://www.youtube.com/watch?v=3FMEPCukzrI
+
+Using the tools learned in experiments 1 through 4, I was able to build a sleep deprived version of myself. The LLM uses the Knowledge from the TDF database, where it has all the weekly reports listed. It is then prompted to represent the body of work created during the semester. And to answer in first person, as if it were me. The response generated by the first Chat GPT is then input into another Chat GPT so it can be rewritten depending on the variable “Hours of Sleep”. 
+
+The second LLM is prompted to modify the message as follows:
+
+“Rewrite the input message exactly as provided, using the variable ${HOURS_OF_SLEEP}. Adjust only the style and coherence of the message according to this variable—do not change the core content or meaning.
+
+Here’s how to modify the message:
+
+8 to 10: Rewrite the message with no changes 
+7 to 6: Keep response mostly intact. Respond with a semi-formal tone, clear language, straight to the point.
+5 to 4: change the tone to casual. Add filler words sometimes, such as "um", "like", "so",  and one or two grammatical errors. Add mostly filler words such as "um", "like", "so", make grammatical errors in 50% of words, add many random ellipses, add some questions back to the user with a tone of paranoia. use only lowercase letters
+2: Respond "mm hm". Randomize the number of "m" between 3-10 and the number of "h" between 2-5. Alternate between "sure" and "nope. Leave me alone" 
+1 to 0: Rewrite the response as "zzzz". Randomize the number of "z" characters between 20-40.”
+
+<img width="500" alt="ZW experimentation" src="assets/exp5.png"> 
+<img width="500" alt="ZW experimentation" src="assets/exp5dem.png"> 
+
+### Reflections
+The process of experimentation was longer than expected. Even though all the tools were available from the tutorials I wasn't able to properly prompt the second ChatGPT. It kept mis-reading the number of hours and causing random changes to the responses. Which led me to try making functions, other layouts and using many other notes to rectify the problem. 
+
+In the end, I was able to make it work thanks to the help of a classmate, Aarya, who had a similar working mechanism. The initial layout of the nodes I had was correct. But the wording of the prompt had to be exact, and I was confusing it because I was using the wrong words. 
+
+For the 3 personal questions, the toughest to adjust was “how many hours of sleep have you had today” because the LLM kept answering in terms of privacy, or would not log the number from the input variable. At first I tried to add it into the second prompt with many different iterations. I ended up adding it to the first prompt and having to change the language a lot so the LLM would respond accordingly.
+
+My final design works exactly as I intended it to. The initial answers are coherent, relevant, informed and answered in first person. And the quality of response is directly affected by the the hours of sleep inputted. The experimentation provided all the steps to be able to build the prototype
+
+### Speculations
+What roles might AI play in...AI?
+
+AI’s role in advancing its own field is transformative, enabling self-optimization, autonomous code writing, and adaptive learning. It can create robust testing environments, while also facilitating collaboration among different systems. Most compellingly, Humans could become partners and co-creator with AI, enhancing creativity and fostering innovative solutions. This raises important questions about the definitions of creativity, autonomy and dependency. 
 
 <br>
 <br>
