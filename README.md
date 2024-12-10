@@ -765,9 +765,9 @@ But after the presentation of the Moncler button, I was inspired to take more ca
 We aimed to join the mechanism of the camera slide and the button trigger into one. This required identifying the distance needed for the slide to move, and therefore the location of the digital button. Here are some sketched and diagrams
 
 <div align="left">
-<img height="200" src="assets/hc-sketch1.png">  
-<img height="200" src="assets/hc-sketch2.png">   
-<img height="200" src="assets/hc-sketch3.png">   
+<img height="500" src="assets/hc-sketch1.png">  
+<img height="500" src="assets/hc-sketch2.png">   
+<img height="500" src="assets/hc-sketch3.png">   
 </div>
 
 ### Reflections
@@ -789,6 +789,7 @@ We aimed to join the mechanism of the camera slide and the button trigger into o
 
 <br>
 <br>
+
 
 # 🗓️ Week 15 - Report 15 #
 ## Week of 12/2//2024
@@ -818,9 +819,6 @@ I had innitially soddered the button wrong and attached the pin for 3v and the o
 
 ### Speculations
 Even if the buttons are attached currently, Im assuming i wil have to do it again at one poing because of unforseen circumstances or some pin that dectahed
-<br>
-<br>
-
 
 ### Second test
 1. Pros: Good location of tabs and organization
@@ -835,6 +833,10 @@ Even if the buttons are attached currently, Im assuming i wil have to do it agai
 <img height="200" src="assets/hc-fit2.png">   
 <img height="200" src="assets/hc-fit3.png">   
 </div>
+
+
+<br>
+<br>
 
 # 🗓️ Week 16 - Report 16 #
 ## Week of 12/9//2024
