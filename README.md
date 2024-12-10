@@ -876,7 +876,7 @@ Case -> Battery -> Board (with button) -> Camera Module -> Button with camera Co
 ### Speculations
 We werent able to do the ML for this delivery but we will be doing that over the break. I am still very happy of this project and will work to perfect it and add it into my portfolio or even a product to sell
 
-<img width="500" src="assets/hc-finalpics1.png"> 
+<img width="500" src="assets/hc-finalpics1.jpeg"> 
 <img width="500" src="assets/hc-finalpics2.jpeg"> 
 <img width="500" src="assets/hc-finalpics3.jpeg"> 
 
