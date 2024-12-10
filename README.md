@@ -710,6 +710,176 @@ AI’s role in advancing its own field is transformative, enabling self-optimiza
 # 🗓️ Week 13 - Report 13 #
 ## Week of 11/18/2024
 
+### Project 04 - Happiness Counter - Fabrication
+
+### Cardboard Prototype and User Testing
+
+Goal: Identifying ideal size and location of button and lens
+
+Process: 
+1. Made cardboard prototypes at 40mm and 50 mm
+2. Made varhying thicknesses of 1 cardboard sheet (7mm aproc) or 2 card board sheets (15mm aproc)
+3. Tested it with 4 different users and all of them picked the 40mm with about 15mm thickness
+
+### Diagrams
+Researched size of apple watch and other hand held devices, resulted in 40mm approximate -> selected another greater size -> cut out 4 circles out of cardboard sheet in 40mm and 50mm -> taped the 40mm circles togteher and the 50mm circles together -> created neckaces with string with a tie knot so users could adjust height -> recorded results and opinions of them wearing the prototypes
+
+<div align="left">
+<img height="200" src="assets/hc-cardboard1.png">   
+<img height="200" src="assets/hc-cardboard2.png"> 
+</div>
+
+<div align="left">
+<img height="200" src="assets/hc-usertest1.png">  
+<img height="200" src="assets/hc-usertest2.png">   
+<img height="200" src="assets/hc-usertest3.png">   
+<img height="200" src="assets/hc-cardboard4.png"> 
+</div>
+
+### Reflections
+The users all selected the 40mm size with 15mm thickess. They indicated only one sheet was too thin to interact with and too loose. They also said the 50 mm size was too clunky for their hand and did not fit in their palm comfortably. 
+
+They also indicatied the most comfortable location for the button was in the top right corner. Even the left handed user tested agreed that was the ideal location. 
+
+### Speculations
+I especulate the general size of the prototype will be able to fit within 40mm circle and 15mm height according to the measurements of the XIAO ESP32S3 board/camera.
+
+<br>
+<br>
+
+# 🗓️ Week 14 - Report 14 #
+## Week of 11/25//2024
+
+### Camera Slide Mechanism
+
+As a team, we agreed not to have the camera uncovered all the time as it is uncomfortable for the viewwers. As seen in the AI pins.
+I 3D printed a slide mechanism that would cover and uncover the camera
+
+<div align="left">
+<img height="200" src="assets/hc-slide1.png">   
+<img height="200" src="assets/hc-slide2.png"> 
+</div>
+
+But after the presentation of the Moncler button, I was inspired to take more care into the mechanism and reduce the number of actions needed for the user to take a photo. 
+
+We aimed to join the mechanism of the camera slide and the button trigger into one. This required identifying the distance needed for the slide to move, and therefore the location of the digital button. Here are some sketched and diagrams
+
+<div align="left">
+<img height="200" src="assets/hc-sketch1.png">  
+<img height="200" src="assets/hc-sketch2.png">   
+<img height="200" src="assets/hc-sketch3.png">   
+</div>
+
+### Reflections
+1. Without adding internal motors, it means merging a mechanical button for the slide and a digital button to trigger the camera.
+2. The camera is 10mm, which means there had to be a 10mm displacement of the slide, but there is less than 5mm available after the boards and components were added.
+3. This was solved by adding the button to the side of the board, and adding a tab onto the cover that would push the button as it was lowered 10mm. 
+
+### Speculations
+1. I worry the tab for the button requires a high level of exactitude, and might shift and will not trigger the camera
+2. I worry that all teh components wont fit inside the prototype
+
+### First test
+<img width="500" src="assets/hc-test1.png"> 
+<img width="500" src="assets/hc-test12.png"> 
+
+### Reflections
+1. Pros: Good size, overall working mechanism, clunky camera slide
+2. Cons: inside tabs in the wrong location, no space for any additional components
+
+<br>
+<br>
+
+# 🗓️ Week 15 - Report 15 #
+## Week of 12/2//2024
+
+### Soldering 
+
+All tests so far were done with independent components as they are more accessible for coding and tests. So we had not needed to attach any of the components.
+
+Now I had to solder the button onto the board, which proved way more difficult than innitially thought.
+I spent over 3 hours trying to solder the button because the parts are so small and keep breaking. 
+The solution ended up being using solid core wire, which was sturdy enough to keep its shape.
+
+Button Diagram
+
+<img width="500" src="assets/hc-buttondiagram.png"> 
+
+Success Process for attaching the button (diagram)
+
+Measuring intended piece of solid core wire -> Cutting it -> Stripping the ends of the wire -> bending one stripped end to 90 degrees -> Cleaning both ends with solution -> attachign that end to the eboard to keep it in place -> bending it into place -> making adjustments to length and stripping -> attaching the end to the pin of the button 
+
+<img width="500" src="assets/hc-attachbutton1.png"> 
+
+### Reflections
+
+I am glad i discovered a more effective way of soddering the butto after failing so much. It was so frustrating and i broke 4 buttons in the process of attaching it. I was afraid i was goig to ruin the boards pins.
+I had innitially soddered the button wrong and attached the pin for 3v and the one next to it to ground, and the other one to d7. This had failed the code. Flipping it fixed the solutions
+
+### Speculations
+Even if the buttons are attached currently, Im assuming i wil have to do it again at one poing because of unforseen circumstances or some pin that dectahed
+<br>
+<br>
+
+
+### Second test
+1. Pros: Good location of tabs and organization
+2. Cons: Does not close, very brittle, 
+
+<img width="500" src="assets/hc-test21.png"> 
+<img width="500" src="assets/hc-test22.png"> 
+<img width="500" src="assets/hc-test23.png"> 
+
+<div align="left">
+<img height="200" src="assets/hc-fit1.png">  
+<img height="200" src="assets/hc-fit2.png">   
+<img height="200" src="assets/hc-fit3.png">   
+</div>
+
+# 🗓️ Week 16 - Report 16 #
+## Week of 12/9//2024
+
+### Adjustments
+
+1. Batteries: Upon receiving the batteries, the prototype had to change as it added 4 mm in thickness that were not accounted for
+2. MicroSD: originally, we were not going to use memory card at all, but it was needed, adding additional mms in thickness
+
+<img width="500" src="assets/hc-test3.png"> 
+
+These caused the prototype to increase in thickness, and the new models were 20mm instead
+
+All the parts in order (Diagram)
+Case -> Battery -> Board (with button) -> Camera Module -> Button with camera Cover -> Lid, hooked on the camera cover
+
+<div align="left">
+<img height="200" src="assets/hc-assembly1.png">   
+ <img height="200" src="assets/hc-assembly2.png">   
+ <img height="200" src="assets/hc-assembly3.png">   
+ <img height="200" src="assets/hc-assembly4.png">   
+ <img height="200" src="assets/hc-assembly5.png">   
+ <img height="200" src="assets/hc-assembly6.png">    
+</div>
+
+### Final Test
+1. The organization was ideal. The tabs were adjusted to fit the new components.
+2. The mechanism for the cover was simplified which improved ease of use.
+3. We also added the hole for the necklace to fit and changed the color of the case to fit our intended color palette
+
+### Reflections
+1. Pros: Good organization, location of tabs, locking mechanism of lid and case, smooth camera slide, all components fit inside
+2. There was many many many prints and iterations
+3. This is the smalled prototype i have ever made. It took so much presision. If anything was off by a mm or even 1/2 a mm it would not fit and i had to reprint
+4. I have the largest Fusion file ever, with a total of 5 assembled versions, and 20 versions of each of the parts
+
+<img width="500" src="assets/hc-graveyard.png"> 
+
+### Speculations
+We werent able to do the ML for this delivery but we will be doing that over the break. I am still very happy of this project and will work to perfect it and add it into my portfolio or even a product to sell
+
+<img width="500" src="assets/hc-finalpics1.png"> 
+<img width="500" src="assets/hc-finalpics2.jpeg"> 
+<img width="500" src="assets/hc-finalpics3.jpeg"> 
+
 <br>
 <br>
 
